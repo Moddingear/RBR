@@ -11,6 +11,11 @@
 		{
 			"Name": "RawInput",
 			"Enabled": true
+		},
+		{
+			"Name": "SetupUEr",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c6ae5bea262a45dfa8bf1c718c2284ec"
 		}
 	]
 }

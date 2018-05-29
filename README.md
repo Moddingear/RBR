@@ -7,8 +7,10 @@
   - Dynamic randomly generated roads between obstacles.
 
 - ### TODO:
-  - [ ] Countdown before road generation.
+  - [ ] Remove UI outside of the main menu.
+  - [ ] Start + countdown before road generation.
   - [ ] Winning system.
+  - [ ] Art (textures, models, landscapes...).
   
 - ### BUGS:
   - [ ] Launch button disappearing on respawn (actor destroyed).

@@ -4,7 +4,7 @@
 
 - ### FEATURES:
   - Multiplayer lobby system hosted by a player (for now).
-  - Dynamic randomly generated roads between floating islands.
+  - Dynamic randomly generated roads between obstacles.
 
 - ### TODO:
   - [ ] Countdown before road generation.

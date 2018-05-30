@@ -7,7 +7,7 @@
   - Dynamic randomly generated roads between obstacles.
 
 - ### TODO:
-  - [ ] Remove UI outside of the main menu.
+  - [x] Remove UI outside of the main menu.
   - [ ] Create echap menu.
   - [ ] Start + countdown before road generation.
   - [ ] Winning system.

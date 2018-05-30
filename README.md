@@ -12,9 +12,10 @@
   - [ ] Start + countdown before road generation.
   - [ ] Winning system.
   - [ ] Art (textures, models, landscapes...).
+  - [ ] Create a website for presentation.
   
 - ### BUGS:
-  - [ ] Launch button disappearing on respawn (actor destroyed).
+  - [x] Launch button disappearing on respawn (actor destroyed).
   - On build:
     - [ ] No collisions with roads.
     - [ ] Clients cannot move.

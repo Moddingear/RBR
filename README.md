@@ -8,7 +8,7 @@
 
 - ### TODO:
   - [x] Remove unnecessary UI.
-  - [ ] Create echap menu.
+  - [x] Create echap menu.
   - [ ] Start + countdown before road generation.
   - [ ] Winning system.
   - [ ] Art (textures, models, landscapes...).
